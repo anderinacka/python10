@@ -27,3 +27,6 @@ slut = 6
 SLIACD = word[start:slut]
 SLICADD = word[slut]
 SLICADDD = word[start]
+
+
+lalalalalalalalalala
